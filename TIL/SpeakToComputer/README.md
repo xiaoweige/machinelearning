@@ -1,7 +1,7 @@
 # Command-a-computer-with-sound
-对着电脑说出想打开的网页，比如百度，即可自动打开百度。基于百度在线语音api实现。(Windows平台)
+对着电脑说出想打开的网页，比如百度，即可自动打开百度。基于百度在线语音api实现。
 
-[【编程之美12期】对着电脑说话，做自己想做的事情](https://www.nowcoder.com/discuss/21073)
+
 
 ## 思路
 1. 使用python录音并保存为文件
